@@ -1,30 +1,19 @@
-🎵 Script de Letra Animada
+# 🎵 Let Down - Animated Lyrics (Radiohead)
 
-Este script en Python reproduce en la terminal una parte del tema "Let Down" de Radiohead, mostrando el estribillo con un efecto de tipeo caracter a caracter y pausas temporizadas que simulan el ritmo de la canción.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-finished-success)
+![Made with](https://img.shields.io/badge/Made%20with-❤-red)
 
-✨ Características
+Este proyecto es un script en **Python** que reproduce en la terminal una parte del tema  
+**"Let Down" de Radiohead**, mostrando el estribillo con un efecto de escritura animada y pausas temporizadas que imitan el ritmo de la canción.  
 
-Muestra la letra con colores en consola (usando colorama).
+---
 
-Incluye tiempos personalizados entre cada línea para mantener el timing del tema.
+## ✨ Características
+- 🎨 Texto con colores en consola gracias a **colorama**.  
+- ⏱️ Tiempos personalizados para simular el *timing* real de la canción.  
+- ⌨️ Efecto de tipeo progresivo (carácter por carácter).  
+- 💻 Compatible con **Windows, Linux y macOS**.  
 
-Simula un efecto de escritura progresiva en pantalla.
-
-Compatible con Windows, Linux y macOS.
-
-📦 Requisitos
-
-Python 3.x
-
-Librería colorama
-
-pip install colorama
-
-▶️ Uso
-
-Ejecutá el script en la terminal:
-
-python letdown.py
-
-
-Presioná CTRL + C para interrumpir en cualquier momento.
+---
