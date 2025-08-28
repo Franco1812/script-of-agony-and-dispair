@@ -17,3 +17,9 @@ Este proyecto es un script en **Python** que reproduce en la terminal una parte 
 - 💻 Compatible con **Windows, Linux y macOS**.  
 
 ---
+
+## 🎬 Preview
+
+![Preview](assets/preview.gif)
+
+---
