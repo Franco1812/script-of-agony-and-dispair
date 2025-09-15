@@ -20,14 +20,14 @@ chorus_lyrics = [
 ]
 
 timings = [
-    1.5,  # You know, you know where you are with
-    0.9,  # You know where you are with
+    1.3,  # You know, you know where you are with
+    0.8,  # You know where you are with
     0.4,  # Floor collapses, floating
     0.4,  # Bouncing back and
     0.8,  # One day, I am gonna grow wings
-    1.0,  # A chemical reaction 
-    1.3,  # Hysterical and useless 
-    1.3,  # Hysterical and 
+    1.5,  # A chemical reaction 
+    1.5,  # Hysterical and useless 
+    1.5,  # Hysterical and 
     1.3,  # Let down and hanging around
     3.0,  # Crushed like a bug in the ground
     2.0,   # Let down and hanging around
